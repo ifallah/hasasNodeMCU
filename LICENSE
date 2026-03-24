@@ -19,3 +19,34 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## أي License تختار؟
+أفضل خيار لك غالبًا:
+
+### **MIT License**
+اختر **MIT** إذا كنت تريد:
+- مشروع بسيط
+- أي شخص يقدر يستخدمه ويعدله
+- بدون تعقيدات كثيرة
+- مناسب جدًا لمشاريع Arduino / ESP / IoT
+
+هذا هو الخيار الأفضل في حالتك.
+
+## متى لا تختار MIT؟
+إذا كنت تريد:
+- منع الاستخدام التجاري
+- أو إلزام أي شخص يفتح تعديلات الكود
+فهنا توجد خيارات أخرى مثل GPL
+
+لكن لمشروعك الحالي:
+**MIT هو الأنسب**
+
+---
+
+## الخلاصة
+اختر هذا:
+
+```txt
+License: MIT
