@@ -31,3 +31,20 @@ Add OLED display support
 Add MQTT support
 Add Telegram or email alerts
 Save readings to a database
+
+
+NodeMCU
+
+D2  → DHT DATA
+3V3 → DHT VCC
+GND → DHT GND
+
+D5  → MQ DO
+A0  → MQ AO
+VIN → MQ VCC
+GND → MQ GND
+
+D6  → BUZZER +
+GND → BUZZER -
+
+LED → LED_BUILTIN
